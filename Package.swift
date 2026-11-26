@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperbidToolsMCSDK",
-            url: "https://topon-sdk-release.oss-cn-hangzhou.aliyuncs.com/MCSDK/iOS/v4.2.11/overseas/sdks/MCSDK.zip",
-            checksum: "6c08d3d54680db7dfdd87cd9b11780c15835f467012e1a86387cc6ca66022aba"
+            url: "https://topon-sdk-release.oss-cn-hangzhou.aliyuncs.com/MCSDK/iOS/v4.2.12/overseas/sdks/MCSDK-4.2.12.zip",
+            checksum: "4fb9a12a015795fe7381acb1ab1affc5f542b1d20355d5b0afd2cb966d2a0567"
         )
     ]
 )
